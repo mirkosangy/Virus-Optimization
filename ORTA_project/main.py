@@ -2,7 +2,7 @@
 """
 Created on Sun May  2 17:50:19 2021
 
-@author: Raimondo Gallo
+@author: Mirko Sangiorgio
 """
 import random
 import matplotlib.pyplot as plt
