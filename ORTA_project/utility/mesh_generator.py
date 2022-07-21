@@ -2,7 +2,7 @@
 """
 Created on Sat May  1 17:46:33 2021
 
-@author: Raimondo Gallo
+@author: Sangiorgio Mirko
 """
 
 from itertools import combinations, groupby
