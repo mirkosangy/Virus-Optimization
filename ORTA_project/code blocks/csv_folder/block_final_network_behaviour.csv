@@ -1,0 +1,2 @@
+N_nodes,lambda,h,T_max,total_healthy,total_contagious,total_ill,total_dead,total_recovered
+3000,0.31,0.47000000000000003,4,353,2647,2647,920,1727

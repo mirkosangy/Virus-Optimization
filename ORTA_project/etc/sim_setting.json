@@ -1,0 +1,13 @@
+{
+	"min_N_nodes": 20,
+	"max_N_nodes": 30,
+	"lambda": 0.2,
+	"edge_probability": 0.1,
+	"infecting_P_a": 2,
+	"infecting_P_b": 3,
+	"death_P_a": 2,
+	"death_P_b": 10,
+	"viral_quantity_max": 0.55,
+	"SIM_LIM": 100,
+	"T_max": 7
+}

@@ -1,0 +1,13 @@
+{
+	"min_N_nodes": minimum number of nodes/people in the graph,
+	"max_N_nodes": maximum number of nodes/people in the graph
+	"lambda": value of lambda,
+	"edge_probability": probability to assign an edge between a given pair of nodes,
+	"infecting_P_a": parameter a of the Beta distribution for the infection probability,
+	"infecting_P_b": parameter b of the Beta distribution for the infection probability,
+	"death_P_a": parameter a of the Beta distribution for the death probability,
+	"death_P_b": parameter b of the Beta distribution for the death probability,
+	"viral_quantity_max": parameter h, the viral quantity threshold to consider a person ill,
+	"SIM_LIM": duration of the simulation in timestamps,
+	"T_max": number of timestamps to heal from the illness
+}
