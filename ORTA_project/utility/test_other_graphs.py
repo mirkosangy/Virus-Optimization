@@ -2,7 +2,7 @@
 """
 Created on Sun May  2 20:34:33 2021
 
-@author: Raimondo Gallo
+@author: Mirko Sangiorgio
 """
 
 import random
